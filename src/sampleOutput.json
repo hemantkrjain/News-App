@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      },
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "Alex Mitchley, Sheldon Morais and Na'ilah Ebrahim",
+        "title": "Taxi strike: Transport minister blasts impoundments, metro hits back at 'misinformation' briefing",
+        "description": "With tensions still running high over a taxi strike in the Western Cape, Transport Minister Sindiswe Chikunga and the City of Cape Town are at odds over whether the metro was acting lawfully in impounding taxis.",
+        "url": "https://www.news24.com/news24/southafrica/news/taxi-strike-transport-minister-blasts-impoundments-metro-hits-back-at-misinformation-briefing-20230808",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9004/abb95d2618174f18b7d0d187e3c26990.jpg",
+        "publishedAt": "2023-08-08T17:00:35+00:00",
+        "content": "<ul><li>Cape Town has been gripped by a taxi strike which emanated from the impounding of taxis for traffic infringements.</li><li>Transport Minister Sindisiwe Chikunga has berated the City of Cape T… [+4625 chars]"
+      },
+      {
+        "source": {
+          "id": "la-repubblica",
+          "name": "La Repubblica"
+        },
+        "author": "La Repubblica",
+        "title": "Il ritorno di Marta Fascina dopo un’assenza di quattro mesi: allo stadio di Monza per il trofeo Berlusconi",
+        "description": "La deputata che è stata a fianco dell’ex presidente del Consiglio fino alla sua morte ha scelto un appuntamento sportivo per farsi rivedere in pubblico",
+        "url": "https://www.repubblica.it/politica/2023/08/08/news/marta_fascina_stadio_monza_trofeo_berlusconi-410459983/",
+        "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/08/08/181612773-649c2075-908c-401c-b311-17ae91d5cc23.jpg",
+        "publishedAt": "2023-08-08T16:16:14Z",
+        "content": "Rieccola, Marta Fascina. Ha scelto lo stadio per farsi rivedere in pubblico, quasi due mesi dopo lultima apparizione ai funerali di Silvio Berlusconi. La deputata che è stata al fianco dellex preside… [+181 chars]"
+      }
+    ]
+  }
